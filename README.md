@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ODMich
-- 👀 I’m interested in ...HTML, JavaScript, Python 
-- 🌱 I’m currently learning ...HTML
-- 💞️ I’m looking to collaborate on ... Any of the above
 - 📫 How to reach me ... miichaell.od@gmail.com
 
 <!---
